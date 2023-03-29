@@ -4,8 +4,8 @@
 
 
 Authors: 
-Kornel Górski
-Lisa Mustafa
-Nikita Orlov
-Jordy Schalleij
+Kornel Górski,
+Lisa Mustafa,
+Nikita Orlov,
+Jordy Schalleij,
 Marius Thimm
